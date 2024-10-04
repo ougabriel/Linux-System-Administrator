@@ -1,4 +1,9 @@
 ### HOW TO SECURE DATA AT REST AND ON TRANSIT
+
+---
+![Untitled design (1)](https://github.com/user-attachments/assets/bb8ae413-3170-4e0a-beef-7b7a20ddd1f5)
+
+---
 HOW TO SECURE DATA AT REST AND ON TRANSIT ON AWS?
 
 Here is what i just recently did;
